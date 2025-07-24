@@ -1,0 +1,16 @@
+# This is a requirements file for a Python project.
+# It lists the packages needed for the project to run.
+pandas
+matplotlib
+seaborn
+openai
+langchain
+scikit-learn
+numpy
+scipy
+openpyxl
+streamlit
+plotly
+networkx
+
+#pip install -r requirements.txt
